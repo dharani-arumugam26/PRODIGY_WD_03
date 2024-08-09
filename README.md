@@ -54,6 +54,6 @@ You can customize the game by modifying the CSS and JavaScript code:
 This project is open-source and free to use for personal or educational purposes.
 
 ## Deployment 
-
+https://dharani-arumugam26.github.io/PRODIGY_WD_03/
 
 ---
